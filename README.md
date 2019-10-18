@@ -12,7 +12,7 @@ Para que se pueda realizar el envío de información de la medición al microcon
 
 ## LSS
 Son las siglas en inglés de (Life Support Subsystem), en este apartado se implementa la electrónica asociada a este subsistema el cual se controla tanto los actuadores como son: los ventiladores, la bomba, y la linterna del casco, cómo tambien sensores como es el sensor de presión; este módulo es controlado por un microcontrolador ATMEGA328P al que se le implementa un bootlader para Arduino, de manera que se pueda realizar desarrollos usando el IDE de Arduino.
-Para que se pueda realizar el envío de información de la medición y la devida actuación del microcontrolador se realiza mediante los distintos periféricos que lo componen, como se muestra en la siuguiente tabla:    
+Para que se pueda realizar el envío de información de la medición y la devida actuación del microcontrolador se realiza mediante los distintos periféricos que lo componen, como se muestra en la siuguiente tabla:       
 
 | Elemento | Referencia | Periférico |
 | -------- | ----------|----------|
