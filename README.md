@@ -57,4 +57,4 @@ Se encarga de mostar la medida de los sensores, el estado de los actuadores, y d
 instalaci{on de imagenes en la pantalla >> sudo python setup.py install <<
 
 ## Gestor de tareas internas
-Se encarga principalmente de administrar las tareas internas de la computadora como la actualización de archivos desde repositorio según el estado del botón de actualización, la configuración inicial de fábrica, la configuración a router
+Se encarga principalmente de administrar las tareas internas de la computadora como la actualización de archivos desde repositorio según el estado del botón de actualización, la configuración inicial de fábrica, la configuración a router se verifica
