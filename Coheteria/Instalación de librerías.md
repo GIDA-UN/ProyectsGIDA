@@ -1,0 +1,1 @@
+Para instlar las librerias se usa el comando pip install [nombre de la libreria] ubicado en la dirección de la carpeta por defecto, cabe mencionar que ésto se realiza por consola
